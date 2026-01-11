@@ -49,7 +49,7 @@ If you want to contribute, follow the instructions in the Contributing file
  <summary><h2> FEB :sparkles: </h2></summary>
   
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
-- [ ] 
+- [ ] Catalyze Fund https://catalyze-community.typeform.com/Catalyze-FF Feb 5
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
 - [ ] GRIPS https://tinyurl.com/2py85uxr Feb 16
 - [ ] Black Impact Web Grant https://bombshellimpact.com/grant/ Feb 13
