@@ -42,6 +42,11 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Algolia Challenge - https://tinyurl.com/j98hd26c JAN 25
 - [ ] Alexander von Humboldt Foundation https://tinyurl.com/3rbrwf68 JAN 20
 - [ ] Mastrichit Scholarship https://lnkd.in/exiej-Pi Jan 17
+- [ ] ANTLER https://hub.antler.co/applicant/dashboard?tab=active JAN 25
+- [ ] AWS CLOUD Captain https://go.aws/4548FZI JAN 18
+- [ ] nln Proposal https://nlnet.nl/propose/ JAN 23
+
+
 
 </details>
 
@@ -56,6 +61,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] TRAVEL GRANT https://wcnc2026.ieee-wcnc.org/travel-grants FEB 5
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
 - [ ] Guillaume Dupaix Scholarship https://tinyurl.com/3wapnn6j FEB 17
+- [ ] ETH HUB Uganda - https://tinyurl.com/55t9yy47 FEB 15
+
 
 </details>
 
@@ -83,7 +90,9 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] SCHOLARSHIPS - https://tinyurl.com/ywjvs98n 
 - [ ] ANOTHER SCHOLARSHIP LIST https://tinyurl.com/32dkrr5f OPEN
 - [ ] Campus Wass - https://www.tfaforms.com/5065108 OPEN
-- [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc 
+- [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc
+- [ ] Web 3 Foundation - https://web3.foundation/funding-support/
+- [ ] 
 
 
 ## Ambassadorships
