@@ -62,6 +62,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
 - [ ] Guillaume Dupaix Scholarship https://tinyurl.com/3wapnn6j FEB 17
 - [ ] ETH HUB Uganda - https://tinyurl.com/55t9yy47 FEB 15
+- [ ] EY Challenge - https://challenge.ey.com/ FEB 20
 
 
 </details>
