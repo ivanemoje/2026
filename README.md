@@ -3,7 +3,7 @@ Welcome to the 2026 Opportunities, Hackathons, and Tech Events Tracker repositor
   
 ![](/oppo.png)
  
-## 📅 Read Me [Again]
+## 📅 Read Me [Again] 
 Each link in this repository includes a date, which corresponds to the deadline for that specific opportunity. To give you ample time to prepare, the dates listed here are typically a few days earlier than the actual deadline. This buffer allows you to gather your materials, refine your applications, and ensure you’re eligible before the final submission.
 
 NEW: Now arranged according to Months (Deadline Priority)💥
