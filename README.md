@@ -44,7 +44,10 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Mastrichit Scholarship https://lnkd.in/exiej-Pi Jan 17
 - [ ] ANTLER https://hub.antler.co/applicant/dashboard?tab=active JAN 25
 - [ ] AWS CLOUD Captain https://go.aws/4548FZI JAN 18
+- [ ] Trade Investment Summit https://lnkd.in/daBByrnK Jan 28
+- [ ] Djangonaut Space https://djangonaut.space/comms/2026/01/18/2026-opening-session-6/ Jan 29
 - [ ] nln Proposal https://nlnet.nl/propose/ JAN 23
+- [ ] ABB Startup Challenge 2026 https://lnkd.in/dhVY_mSe JAN 31 
 
 
 
@@ -54,14 +57,19 @@ If you want to contribute, follow the instructions in the Contributing file
  <summary><h2> FEB :sparkles: </h2></summary>
   
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
+- [ ] Ocean Leaders Fellowship https://lnkd.in/dGsKC-ie Feb 3
 - [ ] Catalyze Fund https://catalyze-community.typeform.com/Catalyze-FF Feb 5
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
+- [ ] UN Global Pulse Accelerator https://lnkd.in/dKFDyQkq FEB 5
 - [ ] GRIPS https://tinyurl.com/2py85uxr Feb 16
+- [ ] Elevate Africa Felllowship https://weelevateafrica.org/apply Feb 2
 - [ ] Black Impact Web Grant https://bombshellimpact.com/grant/ Feb 13
 - [ ] TRAVEL GRANT https://wcnc2026.ieee-wcnc.org/travel-grants FEB 5
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
 - [ ] Guillaume Dupaix Scholarship https://tinyurl.com/3wapnn6j FEB 17
 - [ ] ETH HUB Uganda - https://tinyurl.com/55t9yy47 FEB 15
+- [ ] 
+- [ ] TEF http://www.tefconnect.com/ Feb 15
 - [ ] EY Challenge - https://challenge.ey.com/ FEB 20
 
 
@@ -71,6 +79,7 @@ If you want to contribute, follow the instructions in the Contributing file
  <summary><h2> MAR :sparkles: </h2></summary>
 
 - [ ] Common Fund for Commodities (CFC) https://wp.me/p23f03-i1z MAR 15
+- [ ] Katupult Africa https://lnkd.in/dkFD3yrT MAR 28
 
 </details>
 
