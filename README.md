@@ -68,7 +68,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
 - [ ] Guillaume Dupaix Scholarship https://tinyurl.com/3wapnn6j FEB 17
 - [ ] ETH HUB Uganda - https://tinyurl.com/55t9yy47 FEB 15
-- [ ] 
+- [ ] IEEE Tech Futures Challenge - https://tinyurl.com/mw3kc922 Feb 12
 - [ ] TEF http://www.tefconnect.com/ Feb 15
 - [ ] EY Challenge - https://challenge.ey.com/ FEB 20
 
@@ -135,7 +135,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] https://tinyurl.com/33fme3su
 - [ ] Paperplane https://open-startup.org/Programs/paperplane
 - [ ] TRIBE VIBE https://tribevibe.live/campus-ambassador.php
-- [ ] 
+- [ ] Bezos Earth Fund https://www.bezosearthfund.org/  
 - [ ] 
 - [ ] 
 - [ ] 
