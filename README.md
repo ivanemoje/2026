@@ -65,6 +65,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Elevate Africa Felllowship https://weelevateafrica.org/apply Feb 2
 - [ ] Black Impact Web Grant https://bombshellimpact.com/grant/ Feb 13
 - [ ] TRAVEL GRANT https://wcnc2026.ieee-wcnc.org/travel-grants FEB 5
+- [ ] Hult Prize https://www.hultprize.org/ Feb 10
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
 - [ ] Guillaume Dupaix Scholarship https://tinyurl.com/3wapnn6j FEB 17
 - [ ] ETH HUB Uganda - https://tinyurl.com/55t9yy47 FEB 15
