@@ -74,6 +74,9 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] TEF http://www.tefconnect.com/ Feb 15
 - [ ] EY Challenge - https://challenge.ey.com/ FEB 20
 - [ ] Huntler https://nlnet.nl/ FEB 10
+- [ ] AUB Mastercard https://tinyurl.com/aezffr7w FEB 14
+- [ ] MCCAIN GLOBAL LEADERS https://tinyurl.com/5n6jh4z3 FEB 22
+- [ ] WBG Interns https://tinyurl.com/yztkfa7t FEB 5
 
 
 </details>
@@ -83,6 +86,10 @@ If you want to contribute, follow the instructions in the Contributing file
 
 - [ ] Common Fund for Commodities (CFC) https://wp.me/p23f03-i1z MAR 15
 - [ ] Katupult Africa https://lnkd.in/dkFD3yrT MAR 28
+- [ ] ASTERA https://astera.org/residency/ MAR 10
+- [ ] PAC https://ieee-powerafrica.org/ MAR 15
+- [ ] Google Cloud Credits - https://cloud.google.com/startup OPEN
+- [ ] OS Fellow https://tinyurl.com/46jexe2b MAR 10
 
 </details>
 
