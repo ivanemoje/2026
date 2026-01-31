@@ -148,7 +148,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Bezos Earth Fund https://www.bezosearthfund.org/  
 - [ ] Ashoka Fellowship https://tinyurl.com/44vuebsu
 - [ ] AJA Foundation Grants https://www.ajafoundation.org/how-to-apply/
-- [ ] 
+- [ ] Katapult VC https://katapult.vc/startups/
 - [ ] 
 - [ ] 
 - [ ] 
