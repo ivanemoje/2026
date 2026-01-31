@@ -60,6 +60,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Ocean Leaders Fellowship https://lnkd.in/dGsKC-ie Feb 3
 - [ ] Catalyze Fund https://catalyze-community.typeform.com/Catalyze-FF Feb 5
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
+- [ ] IEEE CON https://www.iecon2026.org/ FEB 20
 - [ ] UN Global Pulse Accelerator https://lnkd.in/dKFDyQkq FEB 5
 - [ ] GRIPS https://tinyurl.com/2py85uxr Feb 16
 - [ ] Elevate Africa Felllowship https://weelevateafrica.org/apply Feb 2
@@ -72,6 +73,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] IEEE Tech Futures Challenge - https://tinyurl.com/mw3kc922 Feb 12
 - [ ] TEF http://www.tefconnect.com/ Feb 15
 - [ ] EY Challenge - https://challenge.ey.com/ FEB 20
+- [ ] Huntler https://nlnet.nl/ FEB 10
 
 
 </details>
@@ -87,7 +89,7 @@ If you want to contribute, follow the instructions in the Contributing file
 <details open> 
  <summary><h2> APR :sparkles: </h2></summary>
   
-- [ ] 
+- [ ] nln https://nlnet.nl/ APRIL 10
 
 </details>
 
