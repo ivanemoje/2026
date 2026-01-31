@@ -146,7 +146,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Paperplane https://open-startup.org/Programs/paperplane
 - [ ] TRIBE VIBE https://tribevibe.live/campus-ambassador.php
 - [ ] Bezos Earth Fund https://www.bezosearthfund.org/  
-- [ ] 
+- [ ] Ashoka Fellowship https://tinyurl.com/44vuebsu
+- [ ] AJA Foundation Grants https://www.ajafoundation.org/how-to-apply/
 - [ ] 
 - [ ] 
 - [ ] 
@@ -188,4 +189,5 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] REAL TIME PHONE AGENTS COURSE - https://github.com/neural-maze/realtime-phone-agents-course
 - [ ] STI FORUM https://sdgs.un.org/tfm
 - [ ] READ https://tinyurl.com/38kcun6j
+- [ ] Bigger datasets aren’t always better https://tinyurl.com/4k49wwp3
 
