@@ -186,5 +186,6 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] cr https://www.linkedin.com/help/linkedin/answer/a6282984
 - [ ] DO - https://tinyurl.com/ye5k72md  20 FEB
 - [ ] REAL TIME PHONE AGENTS COURSE - https://github.com/neural-maze/realtime-phone-agents-course
-- [ ] STI FORUM https://sdgs.un.org/tfm 
+- [ ] STI FORUM https://sdgs.un.org/tfm
+- [ ] READ https://tinyurl.com/38kcun6j
 
