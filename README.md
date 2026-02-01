@@ -112,7 +112,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Campus Wass - https://www.tfaforms.com/5065108 OPEN
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc
 - [ ] Web 3 Foundation - https://web3.foundation/funding-support/
-- [ ] 
+- [ ] Varcel Opensource https://vercel.com/open-source-program
 
 
 ## Ambassadorships
