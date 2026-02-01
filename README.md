@@ -60,6 +60,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Ocean Leaders Fellowship https://lnkd.in/dGsKC-ie Feb 3
 - [ ] Catalyze Fund https://catalyze-community.typeform.com/Catalyze-FF Feb 5
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
+- [ ] Eco Leaders https://ecoleaders.fillout.com/t/oQmQXdPFJ3us FEB 4
 - [ ] IEEE CON https://www.iecon2026.org/ FEB 20
 - [ ] UN Global Pulse Accelerator https://lnkd.in/dKFDyQkq FEB 5
 - [ ] GRIPS https://tinyurl.com/2py85uxr Feb 16
@@ -77,6 +78,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AUB Mastercard https://tinyurl.com/aezffr7w FEB 14
 - [ ] MCCAIN GLOBAL LEADERS https://tinyurl.com/5n6jh4z3 FEB 22
 - [ ] WBG Interns https://tinyurl.com/yztkfa7t FEB 5
+- [ ] IEEE PES https://tinyurl.com/yc8r7x2a FEB 11
+- [ ] YoU-CAN https://tinyurl.com/bdfjjk42 FEB 11
 
 
 </details>
@@ -149,7 +152,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Ashoka Fellowship https://tinyurl.com/44vuebsu
 - [ ] AJA Foundation Grants https://www.ajafoundation.org/how-to-apply/
 - [ ] Katapult VC https://katapult.vc/startups/
-- [ ] 
+- [ ] WEB 3.0 GRANTS https://web3.foundation/funding-support/  
 - [ ] 
 - [ ] 
 
