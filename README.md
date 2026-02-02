@@ -76,10 +76,12 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] EY Challenge - https://challenge.ey.com/ FEB 20
 - [ ] Huntler https://nlnet.nl/ FEB 10
 - [ ] AUB Mastercard https://tinyurl.com/aezffr7w FEB 14
+- [ ] AFS Youth Assembly https://tinyurl.com/yrrwz8sm FEB 10
 - [ ] MCCAIN GLOBAL LEADERS https://tinyurl.com/5n6jh4z3 FEB 22
 - [ ] WBG Interns https://tinyurl.com/yztkfa7t FEB 5
 - [ ] IEEE PES https://tinyurl.com/yc8r7x2a FEB 11
 - [ ] YoU-CAN https://tinyurl.com/bdfjjk42 FEB 11
+- [ ] MLH Fellows https://fellowship.mlh.io/ FEB 28
 
 
 </details>
@@ -153,7 +155,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AJA Foundation Grants https://www.ajafoundation.org/how-to-apply/
 - [ ] Katapult VC https://katapult.vc/startups/
 - [ ] WEB 3.0 GRANTS https://web3.foundation/funding-support/  
-- [ ] 
+- [ ] GITHUB DEV PACK https://education.github.com/pack
 - [ ] 
 
 
@@ -193,4 +195,5 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] STI FORUM https://sdgs.un.org/tfm
 - [ ] READ https://tinyurl.com/38kcun6j
 - [ ] Bigger datasets aren’t always better https://tinyurl.com/4k49wwp3
+- [ ] Shopify https://www.shopify.com/editions/winter2026#sidekick
 
