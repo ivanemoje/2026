@@ -92,6 +92,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Common Fund for Commodities (CFC) https://wp.me/p23f03-i1z MAR 15
 - [ ] Katupult Africa https://lnkd.in/dkFD3yrT MAR 28
 - [ ] ASTERA https://astera.org/residency/ MAR 10
+- [ ] AI 4 Good https://aiforgood.itu.int/engage/speak/ MAR 3
 - [ ] PAC https://ieee-powerafrica.org/ MAR 15
 - [ ] Google Cloud Credits - https://cloud.google.com/startup OPEN
 - [ ] OS Fellow https://tinyurl.com/46jexe2b MAR 10
