@@ -57,6 +57,7 @@ If you want to contribute, follow the instructions in the Contributing file
  <summary><h2> FEB :sparkles: </h2></summary>
   
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
+- [ ] ITR Intern https://tinyurl.com/43558ev5 OPEN
 - [ ] Ocean Leaders Fellowship https://lnkd.in/dGsKC-ie Feb 3
 - [ ] Catalyze Fund https://catalyze-community.typeform.com/Catalyze-FF Feb 5
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
@@ -68,6 +69,8 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Black Impact Web Grant https://bombshellimpact.com/grant/ Feb 13
 - [ ] TRAVEL GRANT https://wcnc2026.ieee-wcnc.org/travel-grants FEB 5
 - [ ] Hult Prize https://www.hultprize.org/ Feb 10
+- [ ] SUMMER KOREAN https://tinyurl.com/muh8au6u FEB 20
+- [ ] AYFN https://tinyurl.com/37ryauaa FEB 27
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
 - [ ] Guillaume Dupaix Scholarship https://tinyurl.com/3wapnn6j FEB 17
 - [ ] ETH HUB Uganda - https://tinyurl.com/55t9yy47 FEB 15
@@ -77,6 +80,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Huntler https://nlnet.nl/ FEB 10
 - [ ] AUB Mastercard https://tinyurl.com/aezffr7w FEB 14
 - [ ] AFS Youth Assembly https://tinyurl.com/yrrwz8sm FEB 10
+- [ ] GRIPS https://pgsr.mans.edu.eg/mission/grips FEB 18
 - [ ] MCCAIN GLOBAL LEADERS https://tinyurl.com/5n6jh4z3 FEB 22
 - [ ] WBG Interns https://tinyurl.com/yztkfa7t FEB 5
 - [ ] IEEE PES https://tinyurl.com/yc8r7x2a FEB 11
@@ -96,6 +100,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] PAC https://ieee-powerafrica.org/ MAR 15
 - [ ] Google Cloud Credits - https://cloud.google.com/startup OPEN
 - [ ] OS Fellow https://tinyurl.com/46jexe2b MAR 10
+- [ ] WSW https://tinyurl.com/mwe8wwp MAR 20
 
 </details>
 
@@ -197,4 +202,6 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] READ https://tinyurl.com/38kcun6j
 - [ ] Bigger datasets aren’t always better https://tinyurl.com/4k49wwp3
 - [ ] Shopify https://www.shopify.com/editions/winter2026#sidekick
+- [ ] Zipline https://www.ictworks.org/african-countries-demand-better-zipline-deal/
+- [ ] Copy this Website - 
 
