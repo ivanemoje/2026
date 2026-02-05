@@ -59,12 +59,14 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Hultprize https://www.hultprize.org/register Feb 10
 - [ ] ITR Intern https://tinyurl.com/43558ev5 OPEN
 - [ ] Ocean Leaders Fellowship https://lnkd.in/dGsKC-ie Feb 3
+- [ ] YCJF https://tinyurl.com/43jvfbxp Feb 19
 - [ ] Catalyze Fund https://catalyze-community.typeform.com/Catalyze-FF Feb 5
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
 - [ ] Eco Leaders https://ecoleaders.fillout.com/t/oQmQXdPFJ3us FEB 4
 - [ ] IEEE CON https://www.iecon2026.org/ FEB 20
 - [ ] UN Global Pulse Accelerator https://lnkd.in/dKFDyQkq FEB 5
 - [ ] GRIPS https://tinyurl.com/2py85uxr Feb 16
+- [ ] GSOC 26 https://summerofcode.withgoogle.com/ FEB 22
 - [ ] Elevate Africa Felllowship https://weelevateafrica.org/apply Feb 2
 - [ ] Black Impact Web Grant https://bombshellimpact.com/grant/ Feb 13
 - [ ] TRAVEL GRANT https://wcnc2026.ieee-wcnc.org/travel-grants FEB 5
@@ -95,6 +97,7 @@ If you want to contribute, follow the instructions in the Contributing file
 
 - [ ] Common Fund for Commodities (CFC) https://wp.me/p23f03-i1z MAR 15
 - [ ] Katupult Africa https://lnkd.in/dkFD3yrT MAR 28
+- [ ] GSOC 26 https://summerofcode.withgoogle.com/ MAR 4
 - [ ] ASTERA https://astera.org/residency/ MAR 10
 - [ ] AI 4 Good https://aiforgood.itu.int/engage/speak/ MAR 3
 - [ ] PAC https://ieee-powerafrica.org/ MAR 15
