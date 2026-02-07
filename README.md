@@ -65,6 +65,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Eco Leaders https://ecoleaders.fillout.com/t/oQmQXdPFJ3us FEB 4
 - [ ] IEEE CON https://www.iecon2026.org/ FEB 20
 - [ ] UN Global Pulse Accelerator https://lnkd.in/dKFDyQkq FEB 5
+- [ ] Chainlink https://chain.link/hackathon FEB 20
 - [ ] GRIPS https://tinyurl.com/2py85uxr Feb 16
 - [ ] GSOC 26 https://summerofcode.withgoogle.com/ FEB 22
 - [ ] Elevate Africa Felllowship https://weelevateafrica.org/apply Feb 2
