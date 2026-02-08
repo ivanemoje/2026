@@ -64,6 +64,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] AI Meets Robotics https://tinyurl.com/4mh54dnp FEB 5
 - [ ] Eco Leaders https://ecoleaders.fillout.com/t/oQmQXdPFJ3us FEB 4
 - [ ] IEEE CON https://www.iecon2026.org/ FEB 20
+- [ ] Timbuktoo EdTech https://timbuktooedtech-en.softr.app/ Feb 13
 - [ ] UN Global Pulse Accelerator https://lnkd.in/dKFDyQkq FEB 5
 - [ ] Chainlink https://chain.link/hackathon FEB 20
 - [ ] GRIPS https://tinyurl.com/2py85uxr Feb 16
