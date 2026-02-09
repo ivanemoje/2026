@@ -71,14 +71,20 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] GSOC 26 https://summerofcode.withgoogle.com/ FEB 22
 - [ ] Elevate Africa Felllowship https://weelevateafrica.org/apply Feb 2
 - [ ] Black Impact Web Grant https://bombshellimpact.com/grant/ Feb 13
+- [ ] FEB SWF Grants https://tinyurl.com/mhcwucbx FEB 15
 - [ ] TRAVEL GRANT https://wcnc2026.ieee-wcnc.org/travel-grants FEB 5
 - [ ] Hult Prize https://www.hultprize.org/ Feb 10
+- [ ] Digital Freedom Fund https://digitalfreedomfund.org/application-process/ FEB 12
+- [ ] Ocean Leaders Fellowship https://www.soalliance.org/ocean-leaders-fellowship FEB 12
 - [ ] SUMMER KOREAN https://tinyurl.com/muh8au6u FEB 20
 - [ ] AYFN https://tinyurl.com/37ryauaa FEB 27
+- [ ] Youngo F&A CP https://tinyurl.com/4x3prd63 FEB 12
+- [ ] ETH Organiser Guide https://tinyurl.com/3hvvmmxk FEB 18
 - [ ] OC Fellowship https://near.tl/sm/aFMoVYENV Feb 7
 - [ ] Guillaume Dupaix Scholarship https://tinyurl.com/3wapnn6j FEB 17
 - [ ] ETH HUB Uganda - https://tinyurl.com/55t9yy47 FEB 15
-- [ ] IEEE Tech Futures Challenge - https://tinyurl.com/mw3kc922 Feb 12
+- [ ] IEEE Tech Futures Challenge - https://tinyurl.com/mw3kc922 Feb 25
+- [ ] ETHRobotics https://tinyurl.com/3hmy3v7s FEB 16
 - [ ] TEF http://www.tefconnect.com/ Feb 15
 - [ ] EY Challenge - https://challenge.ey.com/ FEB 20
 - [ ] Huntler https://nlnet.nl/ FEB 10
@@ -100,6 +106,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Common Fund for Commodities (CFC) https://wp.me/p23f03-i1z MAR 15
 - [ ] Katupult Africa https://lnkd.in/dkFD3yrT MAR 28
 - [ ] GSOC 26 https://summerofcode.withgoogle.com/ MAR 4
+- [ ] HIGGSFIELD https://creators.higgsfield.ai/ MAR 18
 - [ ] ASTERA https://astera.org/residency/ MAR 10
 - [ ] AI 4 Good https://aiforgood.itu.int/engage/speak/ MAR 3
 - [ ] PAC https://ieee-powerafrica.org/ MAR 15
@@ -208,5 +215,6 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Bigger datasets aren’t always better https://tinyurl.com/4k49wwp3
 - [ ] Shopify https://www.shopify.com/editions/winter2026#sidekick
 - [ ] Zipline https://www.ictworks.org/african-countries-demand-better-zipline-deal/
-- [ ] Copy this Website - 
+- [ ] Copy this Website - https://www.shopify.com/editions/winter2026#sidekick
+- [ ] TIKTOK THIS https://www.shopify.com/editions/winter2026#sidekick
 
