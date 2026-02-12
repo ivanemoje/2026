@@ -94,6 +94,7 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] MCCAIN GLOBAL LEADERS https://tinyurl.com/5n6jh4z3 FEB 22
 - [ ] WBG Interns https://tinyurl.com/yztkfa7t FEB 5
 - [ ] IEEE PES https://tinyurl.com/yc8r7x2a FEB 11
+- [ ] Sir Cyril Taylor Young African Leaders https://tinyurl.com/4664mu63 FEB 15
 - [ ] YoU-CAN https://tinyurl.com/bdfjjk42 FEB 11
 - [ ] MLH Fellows https://fellowship.mlh.io/ FEB 28
 
@@ -106,12 +107,15 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] Common Fund for Commodities (CFC) https://wp.me/p23f03-i1z MAR 15
 - [ ] Katupult Africa https://lnkd.in/dkFD3yrT MAR 28
 - [ ] GSOC 26 https://summerofcode.withgoogle.com/ MAR 4
+- [ ] SEWF Event Host https://tinyurl.com/bdet369x MAR 10
+- [ ] GITLAB AI HACK https://gitlab.devpost.com/ MAR 10
 - [ ] HIGGSFIELD https://creators.higgsfield.ai/ MAR 18
 - [ ] ASTERA https://astera.org/residency/ MAR 10
 - [ ] AI 4 Good https://aiforgood.itu.int/engage/speak/ MAR 3
 - [ ] PAC https://ieee-powerafrica.org/ MAR 15
 - [ ] Google Cloud Credits - https://cloud.google.com/startup OPEN
 - [ ] OS Fellow https://tinyurl.com/46jexe2b MAR 10
+- [ ] IPVS https://cpaper.ctimeetingtech.com/ipvs26g/login MAR 7
 - [ ] WSW https://tinyurl.com/mwe8wwp MAR 20
 
 </details>
@@ -120,6 +124,7 @@ If you want to contribute, follow the instructions in the Contributing file
  <summary><h2> APR :sparkles: </h2></summary>
   
 - [ ] nln https://nlnet.nl/ APRIL 10
+- [ ] 9th Annual AGMHI Conference https://event.fourwaves.com/agmhi2026/pages APR 15
 
 </details>
 
