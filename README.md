@@ -117,6 +117,9 @@ If you want to contribute, follow the instructions in the Contributing file
 - [ ] OS Fellow https://tinyurl.com/46jexe2b MAR 10
 - [ ] IPVS https://cpaper.ctimeetingtech.com/ipvs26g/login MAR 7
 - [ ] WSW https://tinyurl.com/mwe8wwp MAR 20
+- [ ] NextGen https://www.goalglobal.org/youth/nextgen-youth-recruitment/ MAR 31
+- [ ] AI Summer https://iimaventures.com/programs/ai-summer-residency/ MAR 31
+- [ ] 
 
 </details>
 
