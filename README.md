@@ -128,6 +128,7 @@ If you want to contribute, follow the instructions in the Contributing file
   
 - [ ] nln https://nlnet.nl/ APRIL 10
 - [ ] 9th Annual AGMHI Conference https://event.fourwaves.com/agmhi2026/pages APR 15
+- [ ] Open Tech Fund https://ow.ly/GUw950YzaFf APR 29
 
 </details>
 
